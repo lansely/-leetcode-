@@ -15,11 +15,6 @@ Output: [1,2]<br/>
 Input: nums = [3,3], target = 6<br/>
 Output: [0,1]<br/>
  
-- Constraints:<br/>
-2 <= nums.length <= 103<br/>
--109 <= nums[i] <= 109<br/>
--109 <= target <= 109<br/>
-Only one valid answer exists.
 
 ```
 class Solution {
